@@ -1,0 +1,263 @@
+2020-08-14 12:33:54.542 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 2676 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:33:54.579 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:33:56.129 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:33:56.138 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:33:56.140 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:33:56.140 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:33:56.212 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:33:56.212 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1577 ms 
+2020-08-14 12:33:56.427 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:33:56.704 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-14 12:33:56.806 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:33:56.808 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-14 12:33:56.842 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-14 12:35:11.365 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 2761 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:35:11.381 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:35:12.566 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:35:12.579 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:35:12.580 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:35:12.580 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:35:12.656 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:35:12.656 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1160 ms 
+2020-08-14 12:35:12.865 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:35:13.111 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-14 12:35:13.206 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:35:13.209 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-14 12:35:13.238 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-14 12:36:13.201 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 2841 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:36:13.210 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:36:14.328 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:36:14.336 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:36:14.337 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:36:14.338 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:36:14.397 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:36:14.398 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1154 ms 
+2020-08-14 12:36:14.584 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:36:14.846 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-14 12:36:14.937 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:36:14.939 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-14 12:36:14.959 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-14 12:36:44.214 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 2921 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:36:44.240 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:36:45.275 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:36:45.283 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:36:45.284 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:36:45.285 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:36:45.348 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:36:45.349 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1014 ms 
+2020-08-14 12:36:45.538 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:36:45.772 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-14 12:36:45.860 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:36:45.863 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-14 12:36:45.884 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-14 12:38:03.592 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3003 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:38:03.629 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:38:05.442 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:38:05.452 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:38:05.453 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:38:05.453 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:38:05.518 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:38:05.519 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1726 ms 
+2020-08-14 12:38:05.699 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:38:05.828 [main] [:] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure - Init DruidDataSource 
+2020-08-14 12:38:05.889 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:38:05.895 [main] [:] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat] 
+2020-08-14 12:38:05.933 [main] [:] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+2020-08-14 12:41:33.188 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3091 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:41:33.223 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:41:35.254 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:41:35.262 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:41:35.263 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:41:35.264 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:41:35.329 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:41:35.329 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1917 ms 
+2020-08-14 12:41:35.498 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:41:35.720 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:41:35.723 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:41:35.725 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:41:35.725 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:41:35.725 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:41:35.999 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:41:36.035 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:41:36.051 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 3.575 seconds (JVM running for 5.448) 
+2020-08-14 12:53:07.413 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 12:53:07.418 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 12:53:07.420 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 12:53:07.420 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 12:53:07.420 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 12:53:07.420 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 12:53:07.421 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:53:15.077 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3345 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:53:15.085 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:53:16.420 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:53:16.428 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:53:16.429 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:53:16.430 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:53:16.512 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:53:16.512 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1311 ms 
+2020-08-14 12:53:16.696 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:53:16.700 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:53:16.701 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:53:16.701 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:53:16.701 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:53:16.888 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:53:17.087 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:53:17.104 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:53:17.121 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 2.756 seconds (JVM running for 4.921) 
+2020-08-14 12:53:39.409 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 12:53:39.409 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 12:53:39.430 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 20 ms 
+2020-08-14 12:54:17.286 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:54:17.287 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 12:54:17.355 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 12:54:17.366 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 12:54:17.366 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 12:54:17.371 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 12:54:17.371 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 12:54:23.679 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 3692 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:54:23.749 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:54:25.350 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:54:25.360 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:54:25.361 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:54:25.362 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:54:25.451 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:54:25.451 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1581 ms 
+2020-08-14 12:54:25.728 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:54:25.733 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:54:25.735 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:54:25.736 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:54:25.736 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:54:26.045 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:54:26.258 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:54:26.278 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:54:26.291 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 3.211 seconds (JVM running for 5.573) 
+2020-08-14 12:54:30.204 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 12:54:30.204 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 12:54:30.235 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 31 ms 
+2020-08-14 12:54:30.530 [Druid-ConnectionPool-Create-1896000574] [:] INFO  com.alibaba.druid.pool.DruidAbstractDataSource - {dataSource-2} failContinuous is true 
+2020-08-14 12:55:00.059 [Druid-ConnectionPool-Create-1896000574] [:] INFO  com.alibaba.druid.pool.DruidAbstractDataSource - {dataSource-2} failContinuous is false 
+2020-08-14 12:55:45.194 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:55:45.195 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 12:55:45.201 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 12:55:45.202 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 12:55:45.202 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 12:55:45.236 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 12:55:45.237 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 12:55:51.647 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4468 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:55:51.665 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:55:53.265 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:55:53.274 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:55:53.275 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:55:53.275 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:55:53.364 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:55:53.364 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1571 ms 
+2020-08-14 12:55:53.631 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:55:53.634 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:55:53.636 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:55:53.636 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:55:53.636 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:55:53.959 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:55:54.209 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:55:54.233 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:55:54.257 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 3.179 seconds (JVM running for 5.538) 
+2020-08-14 12:55:56.906 [http-nio-8080-exec-3] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 12:55:56.907 [http-nio-8080-exec-3] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 12:55:56.940 [http-nio-8080-exec-3] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 31 ms 
+2020-08-14 12:57:27.488 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:57:27.489 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 12:57:27.495 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 12:57:27.526 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 12:57:27.526 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 12:57:27.531 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 12:57:27.531 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 12:57:33.538 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4657 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:57:33.559 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:57:35.005 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:57:35.016 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:57:35.016 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:57:35.016 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:57:35.098 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:57:35.099 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1385 ms 
+2020-08-14 12:57:35.426 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:57:35.429 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:57:35.430 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:57:35.430 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:57:35.430 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:57:35.694 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:57:35.907 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:57:35.926 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:57:35.940 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 3.038 seconds (JVM running for 5.088) 
+2020-08-14 12:57:53.070 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 12:57:53.070 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 12:57:53.093 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 22 ms 
+2020-08-14 12:58:36.789 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:58:36.790 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 12:58:36.794 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 12:58:36.812 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 12:58:36.812 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 12:58:36.815 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 12:58:36.816 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 12:58:42.916 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4800 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 12:58:42.943 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 12:58:44.821 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 12:58:44.831 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:58:44.832 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 12:58:44.832 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 12:58:44.928 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 12:58:44.928 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1794 ms 
+2020-08-14 12:58:45.490 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 12:58:45.495 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 12:58:45.497 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 12:58:45.498 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 12:58:45.498 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 12:58:45.922 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 12:58:46.437 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 12:58:46.463 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 12:58:46.476 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 4.053 seconds (JVM running for 6.217) 
+2020-08-14 12:59:12.924 [http-nio-8080-exec-3] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 12:59:12.924 [http-nio-8080-exec-3] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 12:59:12.960 [http-nio-8080-exec-3] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 35 ms 
+2020-08-14 13:01:47.119 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 13:01:47.120 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 13:01:47.122 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 13:01:47.141 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 13:01:47.141 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 13:01:47.144 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 13:01:47.144 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
+2020-08-14 13:01:54.218 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Starting DemoApplication on localhost.localdomain with PID 4953 (/data/springboot2f/multidruiddynamic/target/classes started by liuhongdi in /data/springboot2f/multidruiddynamic) 
+2020-08-14 13:01:54.246 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - No active profile set, falling back to default profiles: default 
+2020-08-14 13:01:55.650 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http) 
+2020-08-14 13:01:55.660 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"] 
+2020-08-14 13:01:55.664 [main] [:] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2020-08-14 13:01:55.667 [main] [:] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37] 
+2020-08-14 13:01:55.789 [main] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext 
+2020-08-14 13:01:55.790 [main] [:] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1462 ms 
+2020-08-14 13:01:56.384 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1,orderdb} inited 
+2020-08-14 13:01:56.409 [main] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2,goodsdb} inited 
+2020-08-14 13:01:56.410 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [orderdb] success 
+2020-08-14 13:01:56.410 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource - load a datasource named [goodsdb] success 
+2020-08-14 13:01:56.411 [main] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource initial loaded [2] datasource,primary datasource named [orderdb] 
+2020-08-14 13:01:56.692 [main] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2020-08-14 13:01:57.165 [main] [:] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"] 
+2020-08-14 13:01:57.183 [main] [:] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '' 
+2020-08-14 13:01:57.195 [main] [:] INFO  com.multidruiddynamic.demo.DemoApplication - Started DemoApplication in 3.653 seconds (JVM running for 6.535) 
+2020-08-14 13:02:01.940 [http-nio-8080-exec-1] [:] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2020-08-14 13:02:01.941 [http-nio-8080-exec-1] [FrameworkServlet.java:525] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2020-08-14 13:02:01.953 [http-nio-8080-exec-1] [FrameworkServlet.java:547] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms 
+2020-08-14 13:14:58.477 [SpringContextShutdownHook] [:] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 
+2020-08-14 13:14:58.480 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource start closing .... 
+2020-08-14 13:14:58.483 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ... 
+2020-08-14 13:14:58.484 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed 
+2020-08-14 13:14:58.484 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closing ... 
+2020-08-14 13:14:58.488 [SpringContextShutdownHook] [:] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed 
+2020-08-14 13:14:58.488 [SpringContextShutdownHook] [:] INFO  com.baomidou.dynamic.datasource.DynamicRoutingDataSource - dynamic-datasource all closed success,bye 
